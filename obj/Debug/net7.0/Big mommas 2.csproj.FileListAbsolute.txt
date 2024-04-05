@@ -1,0 +1,18 @@
+/Users/andreasboye-hansen/Projects/big mommas 2/big mommas 2/bin/Debug/net7.0/Big mommas 2
+/Users/andreasboye-hansen/Projects/big mommas 2/Big mommas 2/bin/Debug/net7.0/Big mommas 2.deps.json
+/Users/andreasboye-hansen/Projects/big mommas 2/Big mommas 2/bin/Debug/net7.0/Big mommas 2.runtimeconfig.json
+/Users/andreasboye-hansen/Projects/big mommas 2/big mommas 2/bin/Debug/net7.0/Big mommas 2.dll
+/Users/andreasboye-hansen/Projects/big mommas 2/big mommas 2/bin/Debug/net7.0/Big mommas 2.pdb
+/Users/andreasboye-hansen/Projects/big mommas 2/big mommas 2/obj/Debug/net7.0/Big mommas 2.csproj.AssemblyReference.cache
+/Users/andreasboye-hansen/Projects/big mommas 2/big mommas 2/obj/Debug/net7.0/Big mommas 2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andreasboye-hansen/Projects/big mommas 2/big mommas 2/obj/Debug/net7.0/Big mommas 2.AssemblyInfoInputs.cache
+/Users/andreasboye-hansen/Projects/big mommas 2/big mommas 2/obj/Debug/net7.0/Big mommas 2.AssemblyInfo.cs
+/Users/andreasboye-hansen/Projects/big mommas 2/big mommas 2/obj/Debug/net7.0/Big mommas 2.csproj.CoreCompileInputs.cache
+/Users/andreasboye-hansen/Projects/big mommas 2/big mommas 2/obj/Debug/net7.0/Big mommas 2.dll
+/Users/andreasboye-hansen/Projects/big mommas 2/big mommas 2/obj/Debug/net7.0/refint/Big mommas 2.dll
+/Users/andreasboye-hansen/Projects/big mommas 2/big mommas 2/obj/Debug/net7.0/Big mommas 2.pdb
+/Users/andreasboye-hansen/Projects/big mommas 2/Big mommas 2/obj/Debug/net7.0/Big mommas 2.genruntimeconfig.cache
+/Users/andreasboye-hansen/Projects/big mommas 2/Big mommas 2/obj/Debug/net7.0/ref/Big mommas 2.dll
+/Users/andreasboye-hansen/Projects/big mommas 2/big mommas 2/bin/Debug/net7.0/PlantUml.Net.dll
+/Users/andreasboye-hansen/Projects/big mommas 2/big mommas 2/bin/Debug/net7.0/PlantUmlClassDiagramGenerator.Attributes.dll
+/Users/andreasboye-hansen/Projects/big mommas 2/Big mommas 2/obj/Debug/net7.0/Big mommas 2.csproj.CopyComplete
